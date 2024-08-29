@@ -30,7 +30,7 @@ namespace OOPExercise
 
         public string GetSpecies()
         {
-            return GetType().Name;
+            return species;
         }
         public abstract string MakeSound();
         public abstract string Eat();

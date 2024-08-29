@@ -24,8 +24,9 @@
                 Console.WriteLine(generalVet.ExaminePet(pet));
                 Console.WriteLine(specialistVet.ExaminePet(pet));
                 Console.WriteLine();
-                Console.ReadLine(); 
             }
+            Console.ReadLine();
+
         }
     }
 }
