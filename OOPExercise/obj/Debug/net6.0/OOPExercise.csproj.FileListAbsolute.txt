@@ -1,0 +1,15 @@
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.csproj.AssemblyReference.cache
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.AssemblyInfoInputs.cache
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.AssemblyInfo.cs
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\OOPExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.exe
+D:\תמר תכנות\OOPExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.deps.json
+D:\תמר תכנות\OOPExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.runtimeconfig.json
+D:\תמר תכנות\OOPExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.dll
+D:\תמר תכנות\OOPExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.pdb
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.dll
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\refint\OOPExercise.dll
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.pdb
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.genruntimeconfig.cache
+D:\תמר תכנות\OOPExercise\OOPExercise\obj\Debug\net6.0\ref\OOPExercise.dll
